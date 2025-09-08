@@ -2,22 +2,22 @@
 
 # 🌟 Welcome to My GitHub Profile!  
 
-### 🎓 Academic Commissioner | 💡 Lifelong Learner | 💻 Tech Enthusiast  
+### 🎓 Academic Commissioner  
 
 ![Badge](https://img.shields.io/badge/Academic-blue?style=for-the-badge)  
 ![Badge](https://img.shields.io/badge/Commissioner-purple?style=for-the-badge)  
 ![Badge](https://img.shields.io/badge/Learning-green?style=for-the-badge)  
 ![Badge](https://img.shields.io/badge/Technology-orange?style=for-the-badge)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=lexcommission&color=blue&style=flat-square)  
 
 </div>
 
 ---
 
 ## 🌟 About Me  
-- 📖 Academic Commissioner dedicated to empowering students through education & leadership  
-- 💻 Exploring **technology, coding, and open-source** as tools for growth  
+- 📖 Academic Commissioner dedicated to helping students reach their full potential.
+- 💻 Exploring **technology, coding, and open-source** as tools for growth. 
 - ✍️ Working on projects that combine **academics, creativity & innovation**  
 - 🤝 Believer in **collaboration** and **lifelong learning**  
 
@@ -34,8 +34,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
-![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge&logo=lucide&logoColor=white)  
-![EmailJS](https://img.shields.io/badge/EmailJS-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)  
+![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge&logo=lucide&logoColor=white)   
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
@@ -44,23 +43,23 @@
 
 ## 📌 Current Role  
 As **Academic Commissioner**, I:  
-- 🎯 Organize academic programs & initiatives  
-- 📚 Provide resources to help students succeed  
-- 🌱 Encourage academic excellence & holistic growth  
-
+- 🧠 Help Students with Academic Tasks: I assist students with their school requirements such as presentations, written outputs, projects, and other academic activities.
+- 💻 Work Online and Independently: I offer my services directly to students through online.
+- 💬 Offer Flexible, On-Demand Support: Students reach out to me when they need help, and I provide support based on the task and their deadline.
+- 📚 Focus on Quality and Reliability: I make sure my work meets academic standards and is delivered on time.
 ---
 
 ## 📊 GitHub Stats  
 
-![Lexie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![Lexie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lexcommission&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lexcommission&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lexiecomms)   
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lexiecommission@gmail.com)  
 
 ---
 
